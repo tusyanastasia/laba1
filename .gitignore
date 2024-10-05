@@ -1,0 +1,10 @@
+*.o
+*.out
+*.exe
+*.log
+*.env
+*.tmp
+*.bak
+*.lnk
+*.swp
+*.old 
